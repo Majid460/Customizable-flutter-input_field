@@ -13,6 +13,8 @@ and the Flutter guide for
 
 ## Features
 
+![Image](https://raw.githubusercontent.com/Majid460/Customizable-flutter-input_field/refs/heads/main/images/image.png)
+
 This customizable input field is a modified form of Flutter text field.
 
 1. Customizable Borders: Support for both Underline and Outline border types.
